@@ -1,0 +1,6 @@
+ph\com\hibernate\dao\impl\SpringHibernateDaoImpl.class
+ph\com\hibernate\dao\SpringHibernateDao.class
+ph\com\hibernate\application\HibernateConfig.class
+ph\com\hibernate\component\SpringHibernateComponent.class
+ph\com\hibernate\model\Employee.class
+ph\com\hibernate\application\SpringHibernateApplication.class
